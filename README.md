@@ -1,1 +1,2 @@
-directory of all gta images & more
+# assets
+Directory of all GTA images & more - FiveM assets
